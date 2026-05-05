@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/505be2a8-8eda-4def-90b6-5a4ceefee456
 The setup script downloads a portable Python environment automatically - no system Python required.
 
 ```powershell
-git clone https://github.com/D-Ogi/WatermarkRemover-AI.git
+git clone https://github.com/JellyTOP/WatermarkRemover-AI.git
 cd WatermarkRemover-AI
 .\setup.ps1
 ```
