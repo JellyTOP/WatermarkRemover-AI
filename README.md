@@ -60,7 +60,7 @@ After setup, double-click `run.bat` to launch the app.
 Requires Python 3.10+ installed on your system.
 
 ```bash
-git clone https://github.com/D-Ogi/WatermarkRemover-AI.git
+git clone https://github.com/JellyTOP/WatermarkRemover-AI.git
 cd WatermarkRemover-AI
 chmod +x setup.sh
 ./setup.sh
